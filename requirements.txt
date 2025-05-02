@@ -1,0 +1,6 @@
+openai
+gradio
+python-docx
+faiss-cpu
+beautifulsoup4
+requests
